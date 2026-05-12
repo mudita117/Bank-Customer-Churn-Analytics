@@ -27,13 +27,13 @@ The dashboard was built using:
 - 🔄 **Power Query** – Data cleaning and transformation  
 - 🧠 **DAX (Data Analysis Expressions)** – Measures, KPIs, Columns and churn calculations  
 - 🗂️ **Data Modeling** – Table relationships and cross-filtering  
-- 📁 **File Format** – `.pbix` and `.png` preview images  
+- 📁 **File Format** – `.pbit` and `.png` preview images  
 
 ---
 
 ## 📂 Dataset Information
 
-Dataset: **Bank Customer Churn Dataset**
+Dataset: **Bank Customer Churn Dataset (https://github.com/mudita117/Bank-Customer-Churn-Analytics/blob/main/Bank_Churn_Dataset.csv)**
 
 The dataset contains customer-level information including:
 
@@ -200,7 +200,7 @@ This dashboard enables banks to:
 
 Add screenshots in an **images** folder:
 
-images/page1.png  
+
 images/page2.png  
 
 ---
