@@ -198,8 +198,7 @@ This dashboard enables banks to:
 
 ## 📸 Dashboard Preview
 
-Add screenshots in an **images** folder:
-
+![Customer Churn Overview](https://github.com/mudita117/Bank-Customer-Churn-Analytics/blob/main/Customer%20Churn%20Overview.png)
 
 images/page2.png  
 
