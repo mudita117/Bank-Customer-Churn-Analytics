@@ -27,7 +27,7 @@ The dashboard was built using:
 - 🔄 **Power Query** – Data cleaning and transformation  
 - 🧠 **DAX (Data Analysis Expressions)** – Measures, KPIs, Columns and churn calculations  
 - 🗂️ **Data Modeling** – Table relationships and cross-filtering  
-- 📁 **File Format** – `.pbit` and `.png` preview images  
+- 📁 **File Format** – `.pbit`, `.csv` and `.png` preview images  
 
 ---
 
