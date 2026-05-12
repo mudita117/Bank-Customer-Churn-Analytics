@@ -199,14 +199,13 @@ This dashboard enables banks to:
 ## 📸 Dashboard Preview
 
 ![Customer Churn Overview](https://github.com/mudita117/Bank-Customer-Churn-Analytics/blob/main/Customer%20Churn%20Overview.png)
-
-images/page2.png  
+![Churn Drivers & Customer Insights](https://github.com/mudita117/Bank-Customer-Churn-Analytics/blob/main/Churn%20Drivers%20%26%20Customer%20Insights.png) 
 
 ---
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file  
+1. Download the `.pbit` file  
 2. Open using **Power BI Desktop**  
 3. Interact with filters and visuals  
 
